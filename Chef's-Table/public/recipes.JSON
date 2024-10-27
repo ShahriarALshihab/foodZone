@@ -1,0 +1,153 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "SuperBurg",
+    "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200 g spaghetti",
+      "100 g pancetta",
+      "2 large eggs",
+      "50 g pecorino cheese",
+      "Salt",
+      "Pepper"
+    ],
+    "preparing_time": "20 min",
+    "calories": "400 cal",
+    "recipe_image": "https://i.ibb.co.com/X2tZvJB/1-2.jpg"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "VegsPizzzs",
+    "short_description": "A delicious chicken dish cooked in a creamy, spiced tomato sauce.",
+    "ingredients": [
+      "500 g chicken breast",
+      "200 g yogurt",
+      "2 onions",
+      "100 g tomato puree",
+      "Spices"
+    ],
+    "preparing_time": "30 min",
+    "calories": "350 cal",
+    "recipe_image": "https://i.ibb.co.com/C555hzj/2.jpg"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Beef Pizza",
+    "short_description": "A quick and healthy stir fry with seasonal vegetables.",
+    "ingredients": [
+      "100 g broccoli",
+      "100 g bell peppers",
+      "100 g carrots",
+      "Soy sauce",
+      "Olive oil"
+    ],
+    "preparing_time": "15 min",
+    "calories": "250 cal",
+    "recipe_image": "https://i.ibb.co.com/2jkWbsc/3.jpg"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Strawberry Dream Delight",
+    "short_description": "Rich and moist chocolate cake topped with creamy chocolate frosting.",
+    "ingredients": [
+      "200 g flour",
+      "200 g sugar",
+      "100 g cocoa powder",
+      "3 eggs",
+      "200 ml milk"
+    ],
+    "preparing_time": "60 min",
+    "calories": "450 cal",
+    "recipe_image": "https://i.ibb.co.com/nbL6CYg/4.jpg"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Caesar Chicken",
+    "short_description": "A fresh salad with romaine lettuce, croutons, and Caesar dressing.",
+    "ingredients": [
+      "200 g romaine lettuce",
+      "50 g croutons",
+      "30 g Parmesan cheese",
+      "Caesar dressing"
+    ],
+    "preparing_time": "10 min",
+    "calories": "180 cal",
+    "recipe_image": "https://i.ibb.co.com/p0XR1bM/5.jpg"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Tacos Soup",
+    "short_description": "Delicious tacos filled with seasoned beef, cheese, and fresh toppings.",
+    "ingredients": [
+      "500 g ground beef",
+      "6 taco shells",
+      "100 g cheese",
+      "Lettuce",
+      "Tomatoes",
+      "Sour cream"
+    ],
+    "preparing_time": "25 min",
+    "calories": "500 cal",
+    "recipe_image": "https://i.ibb.co.com/QrTvqKq/6.jpg"
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "Rice",
+    "short_description": "Flavorful fried rice with shrimp, vegetables, and soy sauce.",
+    "ingredients": [
+      "200 g shrimp",
+      "300 g cooked rice",
+      "1 onion",
+      "1 carrot",
+      "Soy sauce"
+    ],
+    "preparing_time": "30 min",
+    "calories": "400 cal",
+    "recipe_image": "https://i.ibb.co.com/F8qH5N6/7.jpg"
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "Chicken Curry",
+    "short_description": "A fresh salad made with tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "200 g tomatoes",
+      "100 g mozzarella",
+      "Fresh basil",
+      "Olive oil",
+      "Balsamic vinegar"
+    ],
+    "preparing_time": "10 min",
+    "calories": "150 cal",
+    "recipe_image": "https://i.ibb.co.com/wrvpf2k/8.jpg"
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "Lemon Garlic Chicken",
+    "short_description": "Juicy chicken breasts marinated in lemon and garlic.",
+    "ingredients": [
+      "4 chicken breasts",
+      "2 lemons",
+      "4 garlic cloves",
+      "Olive oil",
+      "Herbs"
+    ],
+    "preparing_time": "45 min",
+    "calories": "300 cal",
+    "recipe_image": "https://i.ibb.co.com/JtfVHjd/9.jpg"
+  },
+  {
+    "recipe_id": 10,
+    "recipe_name": "Shripm",
+    "short_description": "Fluffy pancakes served with syrup and berries.",
+    "ingredients": [
+      "200 g flour",
+      "2 eggs",
+      "300 ml milk",
+      "50 g sugar",
+      "Baking powder"
+    ],
+    "preparing_time": "20 min",
+    "calories": "350 cal",
+    "recipe_image": "https://i.ibb.co.com/GCvyzmY/10.jpg"
+  }
+]
