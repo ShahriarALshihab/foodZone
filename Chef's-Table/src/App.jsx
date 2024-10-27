@@ -7,6 +7,7 @@ import RecipesTitle from "./RecipesTitle";
 import Sidebar from "./Sidebar";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import Footer from "./Footer";
 
 function App() {
   const [recipeQueue, setRecipeQueue] = useState([]);
@@ -20,7 +21,7 @@ function App() {
     );
     if (!isExist) {
       setRecipeQueue([...recipeQueue, recipe]);
-      toast.success("Successfully Added!",{position:"top-center"})
+      toast.success("Successfully Added!", { position: "top-center" });
     } else {
       toast.error("Already in Queue!", { position: "top-center" });
     }
@@ -69,6 +70,7 @@ function App() {
           ></Sidebar>
         </section>
       </div>
+      <Footer></Footer>
     </>
   );
 }
